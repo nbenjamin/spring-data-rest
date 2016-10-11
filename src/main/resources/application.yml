@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: spring-cloud-tutorial
+
+server:
+  port: 8080
