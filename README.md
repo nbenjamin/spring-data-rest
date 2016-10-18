@@ -58,5 +58,9 @@ Currently has the following resource endpoints
     }
 }
 ```
+
+###Build Details###
+spring-data-rest(https://travis-ci.org/nbenjamin/spring-data-rest/builds)
+
  
 
